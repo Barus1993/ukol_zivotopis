@@ -69,5 +69,6 @@ img {
 }
 
 td{
-    padding: 0px 70px 10px 0;
+    line-height: 2rem;
+    min-width: 350px;
 }
